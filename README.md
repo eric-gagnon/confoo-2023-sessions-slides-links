@@ -46,9 +46,9 @@ Links to Confoo 2023 presentation slides / material, feel free to contribute (no
 *  Yannick Forget
    *  https://github.com/forgetyan/confoo-2023
 *  Gerard Gallant
-  *  https://github.com/cggallant/confoo-2023
+   *  https://github.com/cggallant/confoo-2023
 *  Vagmi Mudumbai
-  *  https://github.com/vagmi/postgres-talk
+   *  https://github.com/vagmi/postgres-talk
 *  Joel Lord
    *  https://github.com/joellord/confoo-serverless-atlas
 *  Philippe Arteau
