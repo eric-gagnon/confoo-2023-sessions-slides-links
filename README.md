@@ -53,3 +53,6 @@ Links to Confoo 2023 presentation slides / material, feel free to contribute (no
    *  https://github.com/joellord/confoo-serverless-atlas
 *  Philippe Arteau
    *  https://github.com/h3xstream/confoo-first-chrome-ext
+*  Xavier Bouclet
+   *  https://github.com/mikrethor/confoo-renovate2
+   *  https://github.com/mikrethor/confoo-renovate3
