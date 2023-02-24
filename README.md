@@ -39,3 +39,17 @@ Links to Confoo 2023 presentation slides / material, feel free to contribute (no
    *  https://www.slideshare.net/ivargrimstad/how-to-be-a-responsible-open-source-citizen-256065298
 *  Rob Richardson
    *  https://robrich.org/presentation/2023/02/24/async-python.aspx
+*  Tidjani Belmansour 
+   * https://github.com/BelRarr/confoo2023-infratesting
+*  Hugo Hamon
+   *  https://github.com/hhamon/confoo2023 
+*  Yannick Forget
+   *  https://github.com/forgetyan/confoo-2023
+*  Gerard Gallant
+  *  https://github.com/cggallant/confoo-2023
+*  Vagmi Mudumbai
+  *  https://github.com/vagmi/postgres-talk
+* Joel Lord
+  *  https://github.com/joellord/confoo-serverless-atlas
+*  https://github.com/h3xstream
+   *  https://github.com/h3xstream/confoo-first-chrome-ext
