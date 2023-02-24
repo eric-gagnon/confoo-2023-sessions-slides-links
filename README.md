@@ -38,5 +38,5 @@ Links to Confoo 2023 presentation slides / material, feel free to contribute (no
    *  https://www.slideshare.net/ivargrimstad/jakarta-ee-10-simplicity-for-modern-and-lighweight-cloud
    *  https://www.slideshare.net/ivargrimstad/how-to-be-a-responsible-open-source-citizen-256065298
 *  Gleb Bahmutov
-   *  https://slides.com/bahmutov/the-state-of-js-testing
+   *  ~~ https://slides.com/bahmutov/the-state-of-js-testing ~~
 
