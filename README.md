@@ -4,7 +4,9 @@ Maybe next year I will be able to ask ChatGPT to find all the slides that are sh
 
 Maybe 10x developper means you have to work 10x harder to get those slides. If you are lucky, maybe you scanned the QR code despite the blurry screens!
  
-I was able to track a a few on blogs, slides sharing sites, linkedin, facebook, twitter, github. At least a few added name reference for discoverability.
+I was able to track a a few on blogs, slides sharing sites, Linkedin, Facebook, Twitter, Github. At least a few added name reference for discoverability.
+
+But still, thanks for the presenters that shared their presentation material online.
 
 Looking forward to work with you chatGPT even if you have no emotion and no opinion on a better friendly name that you could have!
 
