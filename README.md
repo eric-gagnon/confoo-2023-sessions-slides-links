@@ -12,6 +12,7 @@ Here are some links to Confoo 2023 presentation slides / material :
    *  https://speakerdeck.com/johanjanssens/asynchronous-programming-with-php-and-openswoole-confoo-2023
 *  Michiel Rook 
    *  https://speakerdeck.com/mrook/safety-science-a-primer-confoo-2023
+   *  https://speakerdeck.com/mrook/dealing-with-change-in-event-sourced-applications-confoo-2023
 *  Karim Pinchon
    *  https://slides.com/kpn13/ou-en-est-php-en-2022-confoo-2023
 *  Bastian Hofman
