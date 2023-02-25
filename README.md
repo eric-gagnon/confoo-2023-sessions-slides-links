@@ -50,4 +50,5 @@ Here are some links to Confoo 2023 presentation slides / material :
    *  https://github.com/mikrethor/confoo-renovate3
 *  Darcy Clarke
    *  https://docs.google.com/presentation/d/1ABBlaRYMoAnq0v8d79K2MxwXTp3dT94QTnAeBuAcwiY/edit#slide=id.g15408d936a2_0_3766
- *  
+ * David Buchmann
+   *  https://davidbu.ch/mann/blog/2023-02-24/confoo-deployments/
