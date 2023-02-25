@@ -10,6 +10,7 @@ Here are some links to Confoo 2023 presentation slides / material :
    *  https://speakerdeck.com/lyrixx/doctrine-objet-type-et-colonne-json
 *  Johan Janssens
    *  https://speakerdeck.com/johanjanssens/asynchronous-programming-with-php-and-openswoole-confoo-2023
+   *  https://speakerdeck.com/johanjanssens/multiprocess-php-containers-with-s6-overlay-confoo-2023-fff7f58f-9471-459c-a0f6-edcd6fc05736
 *  Michiel Rook 
    *  https://speakerdeck.com/mrook/safety-science-a-primer-confoo-2023
    *  https://speakerdeck.com/mrook/dealing-with-change-in-event-sourced-applications-confoo-2023
@@ -34,7 +35,8 @@ Here are some links to Confoo 2023 presentation slides / material :
 *  Tidjani Belmansour 
    * https://github.com/BelRarr/confoo2023-infratesting
 *  Hugo Hamon
-   *  https://github.com/hhamon/confoo2023 
+   *  https://github.com/hhamon/confoo2023
+   *  https://speakerdeck.com/hhamon/designing-state-machines-with-the-symfony-workflow-component
 *  Yannick Forget
    *  https://github.com/forgetyan/confoo-2023
 *  Gerard Gallant
