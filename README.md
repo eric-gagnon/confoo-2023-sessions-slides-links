@@ -1,17 +1,8 @@
 # confoo-2023-sessions-links
 
-Maybe next year I will be able to ask ChatGPT to find all the slides that are shared at the same place named "everywhere".
+Not GPT, find all the slides:
 
-Maybe 10x developper means you have to work 10x harder to get those slides. If you are lucky, maybe you scanned the QR code despite the blurry screens!
- 
-I was able to track a a few on blogs, slides sharing sites, Linkedin, Facebook, Twitter, Github. At least a few added name reference for discoverability.
-
-But still, thanks for the presenters that shared their presentation material online.
-
-Looking forward to work with you chatGPT even if you have no emotion and no opinion on a better friendly name that you could have!
-
-Links to Confoo 2023 presentation slides / material, feel free to contribute (not sorted, might order differently later).
-
+Here are some links to Confoo 2023 presentation slides / material :
 
 * Ruy Adorno
    * https://speakerdeck.com/ruyadorno/the-node-dot-js-runtime-renaissance
