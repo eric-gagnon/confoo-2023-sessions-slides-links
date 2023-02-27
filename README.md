@@ -46,6 +46,7 @@ Here are some links to Confoo 2023 presentation slides / material :
    *  https://github.com/cggallant/confoo-2023
 *  Vagmi Mudumbai
    *  https://github.com/vagmi/postgres-talk
+   *  https://github.com/vagmi/muservice-in-rust
 *  Joel Lord
    *  https://github.com/joellord/confoo-serverless-atlas
 *  Philippe Arteau
@@ -60,3 +61,5 @@ Here are some links to Confoo 2023 presentation slides / material :
  *  Mateusz Zalewski
     *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-business-logic-testing-with-behat-twig-and-api-platform
     *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-bdd-revolution-or-how-we-came-back-from-hell
+* Ron Dagdag 
+    * https://github.com/rondagdag/mr4jsdevs
