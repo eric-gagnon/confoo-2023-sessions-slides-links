@@ -1,4 +1,4 @@
-# confoo-2023-sessions-links
+# Confoo 2023 sessions slides links
 
 Not GPT, find all the slides:
 
