@@ -56,5 +56,5 @@ Here are some links to Confoo 2023 presentation slides / material :
  * David Buchmann
    *  https://davidbu.ch/mann/blog/2023-02-24/confoo-deployments/
  *  Mateusz Zalewski
-   *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-business-logic-testing-with-behat-twig-and-api-platform?from_search=5
-   *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-bdd-revolution-or-how-we-came-back-from-hell?from_search=6
+    *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-business-logic-testing-with-behat-twig-and-api-platform?from_search=5
+    *  https://www.slideshare.net/MateuszZalewski1/confoo-2023-bdd-revolution-or-how-we-came-back-from-hell?from_search=6
