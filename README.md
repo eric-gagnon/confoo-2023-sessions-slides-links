@@ -27,6 +27,7 @@ Here are some links to Confoo 2023 presentation slides / material :
    *  https://www.slideshare.net/anthonydahanne/buildpacks-the-other-way-to-build-container-images
 *  Thijs Feryn
    *  https://www.slideshare.net/ThijsFeryn/distributed-load-testing-with-k6
+   *  https://www.slideshare.net/ThijsFeryn/http-headers-that-will-make-your-website-go-faster
 *  Ivar Grimstad
    *  https://www.slideshare.net/ivargrimstad/jakarta-ee-10-simplicity-for-modern-and-lighweight-cloud
    *  https://www.slideshare.net/ivargrimstad/how-to-be-a-responsible-open-source-citizen-256065298
