@@ -31,6 +31,8 @@ Here are some links to Confoo 2023 presentation slides / material :
 *  Ivar Grimstad
    *  https://www.slideshare.net/ivargrimstad/jakarta-ee-10-simplicity-for-modern-and-lighweight-cloud
    *  https://www.slideshare.net/ivargrimstad/how-to-be-a-responsible-open-source-citizen-256065298
+*  Andres Pineda
+   *  https://github.com/ajpinedam/confooxars 
 *  Rob Richardson
    *  https://robrich.org/presentation/2023/02/24/async-python.aspx
 *  Tidjani Belmansour 
